@@ -20,3 +20,10 @@ bundle exec
 ## Repositorio de Cypress
 [Repositorio Crypress](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-cypress)
 
+## Integrantes
+| Nombre | Correo |
+| --- | --- |
+| Mauricio Corredor | malec@uniandes.edu.co |
+| Ricardo Arango | r.arango@uniandes.edu.co |
+| Darwin Moreno | d.moreno11@uniandes.edu.co |
+| Jimmy Cárdenas | ja.cardenas3388@uniandes.edu.co |
