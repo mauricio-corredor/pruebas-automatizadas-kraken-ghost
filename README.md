@@ -1,5 +1,7 @@
-# pruebas-automatizadas-kraken-ghost
-Respositorio escenarios Kraken
+# Pruebas automatizadas - Kraken
+<p align="center">
+  <img src="https://thesoftwaredesignlab.github.io/KrakenMobile/assets/imgs/kraken.png"/>
+</p>
 
 ## Instrucciones
 1. Se debe descomprimir el zip que contiene los escenarios de Kraken
@@ -18,3 +20,4 @@ bundle exec
 
 ## Repositorio de Cypress
 [Repositorio Crypress](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-cypress)
+
