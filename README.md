@@ -12,7 +12,7 @@ titulo: pruebas_automatizadas
 Usuario: misw
 Correo: misw_pruebas@misw.com	
 psswd: 0123456789
-5. despues de descomprmir el archivo zip que contienen los escenarios de Kraken, estos debe ser ubicados en la carpeta de Feature del proyecto en kraken
+5. La carpeta Escenarios Kraken contienen los escenarios de prueba, estos debe ser ubicados en la carpeta de Feature del proyecto en kraken
 6. se deberian ejecutar los escenarios con la instruccion:
 bundle exec
 7. debe correr todos lo escenarios en serie uno tras otro hasta terminar la totalidad de lo archivos
