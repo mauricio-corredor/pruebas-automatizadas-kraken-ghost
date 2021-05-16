@@ -17,8 +17,10 @@ bundle exec
 6. debe correr todos lo escenarios en serie uno tras otro hasta terminar la totalidad de lo archivos
 7. revisar en la carpeta de Reports del proyecto las condiciones decada corrida de escenarios
 
-## Repositorio de Cypress
-[Repositorio Crypress](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-cypress)
+## Repositorios
+[Repositorio Cypress](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-cypress)
+[Repositorio Resemble](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-resemble)
+[Repositorio Backstop](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-backstop)
 
 ## Integrantes
 | Nombre | Correo |
