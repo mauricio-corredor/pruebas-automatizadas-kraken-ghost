@@ -12,10 +12,11 @@ Usuario: misw
 Correo: misw_pruebas@misw.com	
 psswd: 0123456789
 4. La carpeta Escenarios Kraken contienen los escenarios de prueba, estos debe ser ubicados en la carpeta de Feature del proyecto en kraken
-5. se deberian ejecutar los escenarios con la instruccion:
-bundle exec
-6. debe correr todos lo escenarios en serie uno tras otro hasta terminar la totalidad de lo archivos
-7. revisar en la carpeta de Reports del proyecto las condiciones decada corrida de escenarios
+5. Se deberian ejecutar los escenarios con la instruccion:
+bundle exec kraken-mobile run
+6. Debe correr todos lo escenarios en serie uno tras otro hasta terminar la totalidad de lo archivos
+7. Revisar en la carpeta de Reports del proyecto las condiciones decada corrida de escenarios
+8. Levantar Ghost 3.42.5 y repetir los pasos anteriores para poder realizar las pruebas con las herramientas de regresion Backstop y Resemble
 
 ## Repositorios
 wiki pros y contras[Repositorio pros/contras](https://github.com/mauricio-corredor/pruebas-automatizadas-kraken-ghost/wiki/Analisis-de-las-herramientas)
