@@ -18,10 +18,12 @@ bundle exec
 7. revisar en la carpeta de Reports del proyecto las condiciones decada corrida de escenarios
 
 ## Repositorios
+wiki pros y contras[Repositorio pros/contras](https://github.com/mauricio-corredor/pruebas-automatizadas-kraken-ghost/wiki/Analisis-de-las-herramientas)
 Cypress [Repositorio Cypress](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-cypress)
 Resemble[Repositorio Resemble](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-resemble)
 Backstop[Repositorio Backstop](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-backstop)
-wiki pros/contras[Repositorio pros/contras](https://github.com/mauricio-corredor/pruebas-automatizadas-kraken-ghost/wiki/Analisis-de-las-herramientas)
+
+
 
 
 ## Integrantes
