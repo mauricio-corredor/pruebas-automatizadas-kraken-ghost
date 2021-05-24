@@ -4,7 +4,7 @@
 </p>
 
 ## Instrucciones
-1. Levantar Ghost 3.3.0. desde la carpeta donde esta intalado el Ghost (ghost start)
+1. Levantar Ghost 3.4.25. desde la carpeta donde esta intalado el Ghost (ghost start)
 2. Open terminal in root project folder and execute
 3. Se debe crear un usuario y pasword de acuerdo con los siguientes datos: 
 titulo: pruebas_automatizadas
@@ -17,6 +17,14 @@ bundle exec kraken-mobile run
 6. Debe correr todos lo escenarios en serie uno tras otro hasta terminar la totalidad de lo archivos
 7. Revisar en la carpeta de Reports del proyecto las condiciones decada corrida de escenarios
 8. Levantar Ghost 3.42.5 y repetir los pasos anteriores para poder realizar las pruebas con las herramientas de regresion Backstop y Resemble
+## Instrucciones semana 7
+10. Para el caso de los escenarios de prueba con cucumber y datos Random tenemos lo siguiente:
+11.  Las features se encuentran en la carpeta de escenarios cucumber_random (entrega semana 7)
+12.  Se debe seguir el procedimiento de la instalacion de cucumber-webdriverio
+13.  En la carpera de Features debe ir la carpeta de step-definitions y tambien cada uno de los features.
+14.  Al mismo nivel de Features debe ir la carpeta de Suport Suport (con funcionalidades de generacion de datos aleatorios)
+15.  En la terminal se da el comando npm run test
+ 
 
 ## Repositorios
 [Repositorio Cypress](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-cypress)
