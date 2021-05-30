@@ -32,6 +32,7 @@ bundle exec kraken-mobile run
 19. Los steps y archivos de soporte (support) se encuentran en este repositorio
 20. Cabe anotar que hay un archivo de soporte que contiene funciones que generan datos aleatorios
 21. Se anexa el Webdriver en una carpeta comprimida en este repositorio
+22. Los datos para el ingreso a Ghost se encuentran dentro de los escenarios, asi que no debe haber problema
 
  
 
