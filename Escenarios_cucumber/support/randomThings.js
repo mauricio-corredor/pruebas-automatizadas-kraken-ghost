@@ -27,8 +27,7 @@ const RandomThings = {
   },
 
   randomBigstring: (emailLength) => {
-    var randomBigString = faker.lorem.text(emailLength);
-    return randomBigString;
+    var randomBigString = faker.lorem.text(emailLength)
 
   },
 
