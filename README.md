@@ -1,4 +1,4 @@
-# Pruebas automatizadas - Kraken
+# Pruebas automatizadas
 <p align="center">
   <img src="https://thesoftwaredesignlab.github.io/KrakenMobile/assets/imgs/kraken.png"/>
 </p>
