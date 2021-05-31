@@ -30,9 +30,10 @@ bundle exec kraken-mobile run
 17. Se añadió el link a los escenarios Cucumber con pools de datos y generacion aleatorias de informacion
 18. Para correr el cucumber Webdriver por favor seguir las indicaciones para el tutorial mostrado en la semana # 5 de Coursera [cucumber](https://www.coursera.org/learn/pruebas-automatizadas-software/ungradedWidget/pnCp6/tutorial-escenarios-y-pruebas-bdt)
 19. Los steps y archivos de soporte (support) se encuentran en este repositorio
-20. Cabe anotar que hay un archivo de soporte que contiene funciones que generan datos aleatorios
+20. Cabe anotar que hay un archivo de soporte que contiene funciones que generan datos aleatorios y esta dentro de la carpeta [support](https://github.com/mauricio-corredor/pruebas-automatizadas-kraken-ghost/tree/main/Escenarios_cucumber/support)
 21. Se anexa el Webdriver en una carpeta comprimida en este repositorio
 22. Los datos para el ingreso a Ghost se encuentran dentro de los escenarios, asi que no debe haber problema
+23. Para correr las pruebas desde donde se encuentra instalada la herramienta Cucumber webdriver con npm test previo se debe copiar los Features y l acarpeta de support con su archivo de acuerdo con la estructura de la carpeta [cucumber webdriverio.zip](https://github.com/mauricio-corredor/pruebas-automatizadas-kraken-ghost/blob/main/cucumber-webdriverio.zip)
 
  
 
@@ -45,7 +46,7 @@ bundle exec kraken-mobile run
 
 [Repositorio Backstop](https://github.com/jimmy-cardenas-miso/pruebas-automatizadas-ghost-backstop)
 
-[wiki Pros y Contras](https://github.com/mauricio-corredor/pruebas-automatizadas-kraken-ghost/wiki/Herramientas-escogidas-para-el-proyecto)
+[Wiki Pros y Contras](https://github.com/mauricio-corredor/pruebas-automatizadas-kraken-ghost/wiki/Herramientas-escogidas-para-el-proyecto)
 
 
 
